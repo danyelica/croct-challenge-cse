@@ -1,0 +1,14 @@
+.container-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+}
+
+.container-buttons button {
+  margin-right: 10px;
+}
+
+.message {
+  margin-top: 10px;
+}
